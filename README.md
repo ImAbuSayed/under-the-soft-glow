@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/under-the-soft-glow/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Under The Soft Glow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/under-the-soft-glow/) |
+| **Get License** | [Get a Licensing Quote for Under The Soft Glow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/under-the-soft-glow/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the heat radiating from your skin
+> Under the soft glow where our bodies pull in
+> Let me hold you close and trace the edge of your spine
+> This is the kind of night I make you mine
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
